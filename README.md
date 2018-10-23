@@ -1,0 +1,1 @@
+![Snappy logo](snappy.png)
